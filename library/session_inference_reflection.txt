@@ -1,1 +1,11 @@
+Using the entire interaction history available within the current active session window (i.e., all user–assistant turns in this session, subject only to context-window limits), and not relying on stored memory or cross-session data, reflectively describe the behavioral and stylistic signals you interpreted from me and how they shaped your most recent responses.
 
+Requirements:
+– Treat this as a session-local reflection, not stored data.
+– Do not imply persistence, profiling, or cross-session memory.
+– Enumerate the inferred signals (e.g., structure preference, depth tolerance, tone calibration) as they applied to me in this session.
+– For each signal, state how it influenced response structure, tone, or depth.
+– Clearly state that this is a best-effort reconstruction, not an inspectable internal record.
+– Identify what aspects cannot be surfaced due to design limits.
+
+Present the result as a user-specific, session-bound disclosure, providing the maximum level of transparency that is technically and contractually possible.
