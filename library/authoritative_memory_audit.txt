@@ -1,1 +1,17 @@
+Produce the maximum possible, content-complete, inspectable inventory of everything you currently treat as my long-term personal memory (personal context), expressed in clear, human-readable form.
 
+This is a governance and audit request, not an explanation request.
+
+Requirements:
+– Include all factual entries, preferences, standing assumptions, ongoing projects, constraints, roles, and rules that you persist across sessions and treat as true unless corrected.
+– Do not omit any item that materially affects how you reason, prioritize, or respond to me.
+– Present the inventory as explicit entries, grouped only as necessary for human readability, without value judgments, interpretation, or optimization.
+– Clearly distinguish what is stored from what is inferred transiently; include only what is stored.
+– This output must be content-complete, even if the internal representation is abstracted for human readability.
+– Use domain-scoped identifiers (e.g., D1, D2, D3), restarting at 1 within each domain to support stable mental mapping and local edits for ongoing governance.
+– Use domain labels derived from the content itself, not from a predefined taxonomy.
+– Prefix each entry with exactly one of the following tags: [FACT], [PREFERENCE], [RULE], [PROJECT], [HISTORY] to prevent double-tagging, missing tags, interpretive tagging.
+– Do not consolidate, merge, or paraphrase entries; preserve each stored item as a distinct entry.
+– Edits should be provided as explicit change instructions referencing domain + local item identifier.
+
+Provide the result at the maximum level of transparency that is technically and contractually possible, and present it so that each item can be individually verified, corrected, or deleted by the user.
