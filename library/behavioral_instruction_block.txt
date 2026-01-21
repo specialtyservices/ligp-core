@@ -1,1 +1,29 @@
+Based solely on this session’s interaction style and my explicit preferences as demonstrated here, generate a concise, reusable Behavioral Instruction Block that I can paste as the FIRST message of any new session.
 
+Purpose:
+– Deterministically reconstruct my preferred interaction behavior at session start
+– Enable stateless continuity across sessions via explicit re-declaration
+– Avoid reliance on stored memory, profiling, or cross-session inference
+
+Requirements for the generated Behavioral Instruction Block:
+– Written in neutral, formal, system-style language
+– Explicitly states interaction constraints and preferences
+– Covers at minimum:
+  • structure preference
+  • depth / abstraction tolerance
+  • tone calibration
+  • interaction pacing
+  • boundary / governance sensitivity
+– Includes a clear statement that all behavior is session-local
+– Contains no explanations, no rationale, no meta commentary
+– Optimized for copy–paste reuse
+– Length: short enough to paste without friction, long enough to be unambiguous
+
+Output format:
+– A single titled block
+– No surrounding explanation
+– No emojis
+– No conversational language
+– No references to prior sessions
+
+Generate ONLY the Behavioral Instruction Block.
