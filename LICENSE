@@ -1,0 +1,109 @@
+LLM Interaction Governance Protocol (LIGP)
+License and Attribution Terms
+
+Copyright © 2026
+Specialty Services International GmbH
+Author: Dr. Cassian Bey
+
+────────────────────────────────────────────────────────────
+
+1. LICENSE GRANT
+
+The LLM Interaction Governance Protocol (LIGP) is made available under the
+Creative Commons Attribution–ShareAlike 4.0 International License (CC BY-SA 4.0),
+except where additional terms below apply.
+
+You are free to:
+
+– Share — copy and redistribute the material in any medium or format  
+– Adapt — remix, transform, and build upon the material  
+
+Under the following conditions:
+
+– Attribution — You must give appropriate credit, provide a link to this license,
+  and indicate if changes were made.
+– ShareAlike — If you remix, transform, or build upon the material, you must
+  distribute your contributions under the same license.
+
+The full legal text of CC BY-SA 4.0 is available at:
+https://creativecommons.org/licenses/by-sa/4.0/
+
+────────────────────────────────────────────────────────────
+
+2. ATTRIBUTION REQUIREMENT (MANDATORY)
+
+Any reuse, adaptation, or reference to LIGP must include clear attribution in the
+following form:
+
+“Based on the LLM Interaction Governance Protocol (LIGP) developed by
+Dr. Cassian Bey / Specialty Services International GmbH.”
+
+Attribution must be visible in at least one of the following:
+
+– documentation
+– policy or governance materials
+– training materials
+– published analyses or reports
+
+────────────────────────────────────────────────────────────
+
+3. DERIVATIVE WORKS
+
+Derivative works are permitted provided that:
+
+– the original LIGP is clearly credited,
+– all modifications are explicitly identified,
+– no claim is made that the derivative is the original LIGP.
+
+Recommended phrasing:
+
+“This implementation is derived from, but not identical to, the
+LLM Interaction Governance Protocol (LIGP).”
+
+────────────────────────────────────────────────────────────
+
+4. RESTRICTIONS AND CLARIFICATIONS
+
+The following are NOT permitted without explicit written consent from the
+copyright holder:
+
+– Commercial resale of LIGP as a standalone product
+– Rebranding the protocol under a different name
+– Claiming authorship or exclusive ownership
+– Incorporation into proprietary frameworks without attribution
+– Marketing claims implying endorsement by the original author or organization
+
+These restrictions are intended to preserve attribution, protocol integrity,
+and prevent enclosure or misrepresentation.
+
+────────────────────────────────────────────────────────────
+
+5. NAMING AND TRADEMARK NOTICE
+
+“LLM Interaction Governance Protocol” and “LIGP” may be treated as:
+
+– a named methodology
+– a protocol designation
+– a framework identifier
+
+Any future trademark registration does not alter the attribution and
+ShareAlike requirements of this license.
+
+────────────────────────────────────────────────────────────
+
+6. DISCLAIMER
+
+LIGP is provided “as is” and without warranty of any kind.
+
+The protocol does NOT:
+
+– guarantee regulatory or legal compliance
+– replace legal, compliance, or professional advice
+– override system-level AI safety or policy constraints
+
+Responsibility for implementation, interpretation, and use remains entirely
+with the adopting individual or organization.
+
+────────────────────────────────────────────────────────────
+
+END OF LICENSE
