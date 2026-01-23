@@ -9,35 +9,52 @@ The **LLM Interaction Governance Protocol (LIGP)** is an original interaction-go
 
 ## How to Attribute
 
-Any reuse, adaptation, or reference to LIGP should include attribution in the following form:
+Any reuse, adaptation, or reference to LIGP **must include clear attribution** in the following form:
 
 > “Based on the LLM Interaction Governance Protocol (LIGP) developed by  
 > Dr. Cassian Bey / Specialty Services International GmbH.”
 
-Attribution should be visible in at least one of the following, where applicable:
+Attribution must be visible in at least one of the following, where applicable:
 
-- documentation
-- policy or governance materials
-- training materials
-- published analyses or reports
+- documentation,
+- policy or governance materials,
+- training materials,
+- published analyses or reports.
 
 ---
 
 ## Derivative Works
 
-If you modify or extend LIGP, please make the relationship explicit.
+Derivative works are permitted provided that:
 
-Recommended phrasing:
+- the original protocol is clearly credited,
+- modifications are explicitly identified,
+- no claim is made that the derivative is the original LIGP.
+
+**Recommended phrasing:**
 
 > “This implementation is derived from, but not identical to, the  
 > LLM Interaction Governance Protocol (LIGP).”
 
 ---
 
+## Restrictions (Summary)
+
+The following uses are **not permitted without explicit written consent**:
+
+- commercial resale of LIGP as a standalone product,
+- rebranding the protocol under a different name,
+- claiming authorship or exclusive ownership,
+- incorporation into proprietary frameworks without attribution,
+- marketing claims implying endorsement by the original author.
+
+---
+
 ## License Reference
 
-LIGP is licensed under **CC BY-SA 4.0**, with additional attribution and integrity requirements.  
-See the `LICENSE` file in this repository for full legal terms.
+LIGP is licensed under **CC BY-SA 4.0**, with additional attribution and integrity requirements.
+
+See the `LICENSE` file in this repository for the authoritative legal terms.
 
 ---
 
