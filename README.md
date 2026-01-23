@@ -113,16 +113,27 @@ These components are **sequential, complementary, and non-interchangeable**.
 
 .
 ├── README.md
+
 ├── LICENSE
+
 ├── ATTRIBUTION.md
+
 └── docs
+
 ├── whitepaper
+
 │   └── ligp_whitepaper.md
+
 ├── regulatory
+
 │   └── ligp_regulatory_briefing.md
+
 ├── enterprise
+
 │   └── ligp_enterprise_governance_mapping.md
+
 └── licensing
+
 └── ligp_licensing_and_attribution.md
 
 ---
