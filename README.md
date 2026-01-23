@@ -151,3 +151,5 @@ By separating storage, inference, and instruction, LIGP enables auditability, re
 ## Attribution
 
 Any reuse or adaptation of LIGP **must comply** with the attribution and licensing terms defined in `ATTRIBUTION.md`.
+
+The `LICENSE` file in this repository is the authoritative legal document governing use of LIGP.
