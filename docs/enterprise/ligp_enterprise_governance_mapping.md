@@ -1,107 +1,113 @@
-Mapping LIGP to Enterprise AI Governance Frameworks
-(ISO / policy / compliance language)
-This section answers: Is LIGP compatible with enterprise governance?
-Short answer: yes — it fits cleanly at the interaction layer.
+# Mapping LIGP to Enterprise AI Governance Frameworks
 
-Governance positioning
-LIGP operates at the Human–AI Interaction Layer, not at:
-model training,
-infrastructure,
-or deployment governance.
+*(ISO / policy / compliance language)*
 
+This document answers: **Is LIGP compatible with enterprise governance?**  
+Short answer: **Yes — it fits cleanly at the interaction layer.**
 
-It complements, rather than competes with, existing frameworks.
+---
 
-Mapping to common governance dimensions
-1. Transparency & Explainability
-(ISO/IEC 23894, OECD AI Principles)
-LIGP contribution:
-Explicit separation of:
+## Governance positioning
 
+LIGP operates at the **Human–AI Interaction Layer**, not at:
 
-stored personal data,
-session-local inference,
-system constraints.
+- model training,
+- infrastructure,
+- or deployment governance.
 
+It **complements**, rather than competes with, existing frameworks.
 
-User-auditable disclosure of what influences responses.
+---
 
+## Mapping to common governance dimensions
 
-Result:
-Improves interaction-level transparency without requiring internal model explainability.
+### 1) Transparency & Explainability *(ISO/IEC 23894, OECD AI Principles)*
 
-2. Data Governance & Privacy
-(GDPR, ISO/IEC 27701)
-LIGP contribution:
-Treats long-term personal memory as:
+**LIGP contribution**
+- Explicit separation of:
+  - stored personal data,
+  - session-local inference,
+  - system constraints.
+- User-auditable disclosure of what influences responses.
 
+**Result**
+- Improves interaction-level transparency without requiring internal model explainability.
 
-inspectable,
-correctable,
-deletable.
+---
 
+### 2) Data Governance & Privacy *(GDPR, ISO/IEC 27701)*
 
-Avoids implicit accumulation of behavioral data.
-Result:
-Supports data minimization and user control at the interaction surface.
+**LIGP contribution**
+- Treats long-term personal memory as:
+  - inspectable,
+  - correctable,
+  - deletable.
+- Avoids implicit accumulation of behavioral data.
 
-3. Human Oversight & Control
-(EU AI Act – human-in-the-loop / human-on-the-loop)
-LIGP contribution:
-Enables deterministic user control over interaction behavior.
-Prevents silent drift via explicit re-declaration.
+**Result**
+- Supports data minimization and user control at the interaction surface.
 
+---
 
-Result:
-Operationalizes human oversight without slowing down usage.
+### 3) Human Oversight & Control *(EU AI Act — HITL / HOTL)*
 
-4. Consistency & Repeatability
-(Enterprise QA, audit readiness)
-LIGP contribution:
-Stateless Behavioral Instruction Blocks ensure:
+**LIGP contribution**
+- Enables deterministic user control over interaction behavior.
+- Prevents silent drift via explicit re-declaration.
 
+**Result**
+- Operationalizes human oversight without slowing down usage.
 
-predictable interaction behavior,
-reproducibility across sessions,
-reduced variance due to hidden inference.
+---
 
+### 4) Consistency & Repeatability *(Enterprise QA, audit readiness)*
 
-Result:
-Improves auditability of AI-assisted workflows.
+**LIGP contribution**
+- Stateless Behavioral Instruction Blocks ensure:
+  - predictable interaction behavior,
+  - reproducibility across sessions,
+  - reduced variance due to hidden inference.
 
-5. Risk Management & Misuse Prevention
-(ISO 31000, AI risk frameworks)
-LIGP contribution:
-Makes adaptation visible rather than implicit.
-Reduces false assumptions about AI “learning” users.
-Encourages explicit constraints instead of emergent behavior.
-Result:
-Lower epistemic and operational risk at the user interface level.
+**Result**
+- Improves auditability of AI-assisted workflows.
 
-What LIGP deliberately does not cover
-For clarity in governance documentation:
-Model training oversight
-Dataset provenance
-Internal bias mitigation
-Infrastructure security
-Safety policy enforcement
-These remain out of scope and are handled elsewhere.
+---
 
-Enterprise framing
-LIGP is an interaction-layer governance protocol that enables transparency, control, and repeatability in human–LLM interaction without requiring access to model internals.
+### 5) Risk Management & Misuse Prevention *(ISO 31000, AI risk frameworks)*
 
-Strategic value
-For organizations, LIGP can function as:
-a usage standard,
-a training component,
-a compliance-friendly interaction guideline,
-or a policy appendix for AI-assisted work.
+**LIGP contribution**
+- Makes adaptation visible rather than implicit.
+- Reduces false assumptions about AI “learning” users.
+- Encourages explicit constraints instead of emergent behavior.
 
+**Result**
+- Lowers epistemic and operational risk at the user interface level.
 
+---
 
-Closing clarity
-LIGP does not claim AI should be fully transparent.
-It claims interaction should be governable.
+## Out of scope (deliberate)
+
+LIGP does not cover:
+
+- model training oversight,
+- dataset provenance,
+- internal bias mitigation,
+- infrastructure security,
+- safety policy enforcement.
+
+These remain handled elsewhere.
+
+---
+
+## Enterprise framing
+
+LIGP is an **interaction-layer governance protocol** that enables **transparency, control, and repeatability** in human–LLM interaction without requiring access to model internals.
+
+---
+
+## Closing clarity
+
+LIGP does not claim AI should be fully transparent.  
+It claims **interaction should be governable**.
+
 That distinction is why it fits cleanly into modern AI governance.
-
-
